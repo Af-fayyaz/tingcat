@@ -161,6 +161,7 @@ p {
 footer a{
   padding: 0;
   margin: 0;
+  color: #01a9b4;
 }
 
 @media (max-width: 1028px) {
